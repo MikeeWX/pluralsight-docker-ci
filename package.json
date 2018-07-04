@@ -7,9 +7,9 @@
   "author": "Nigel Poulton <nigelpoulton@hotmail.com>",
   "license": "You'd have to be mad to use this in production :-D",
   "dependencies": {
-    "express":
-    "pug":
-    "mocha":
-    "supertest":
+    "express":,
+    "pug":,
+    "mocha":,
+    "supertest":,
   }
 }
